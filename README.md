@@ -1,2 +1,4 @@
-# telegrambot
-Telegram bot for zoom codes
+# Zoom Codes Bot
+
+
+Telegram bot for Zoom codes
